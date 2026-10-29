@@ -1,6 +1,6 @@
 # Journal of Pharmaceutical Chemistry and Biosciences
 
-Welcome to the official portal of the **Journal of Pharmaceutical Chemistry and Biosciences (jpcbs)**. We are a peer-reviewed, diamond open-access journal dedicated to publishing high-quality computational, chemical, and biological research focusing on novel pharmaceutical formulations and marine-derived natural products.
+Welcome to the official portal of the **Journal of Pharmaceutical Chemistry and Biosciences (jpcbs)**. We are a peer-reviewed, open-access journal dedicated to publishing high quality computational, chemical, and biological research focusing on novel pharmaceutical formulations and marine derived natural products.
 
 ---
 
