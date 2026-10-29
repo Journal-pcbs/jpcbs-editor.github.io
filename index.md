@@ -1,6 +1,6 @@
 # Journal of Pharmaceutical and Marine Bioactive Chemistry
 
-Welcome to the official portal of the **Journal of Pharmaceutical and Marine Bioactive Chemistry (JPMBC)**. We are a peer-reviewed, diamond open-access journal dedicated to publishing high-quality computational, chemical, and biological research focusing on novel pharmaceutical formulations and marine-derived natural products.
+Welcome to the official portal of the **Journal of Pharmaceutical Chemistry and Biosciences (jpcb)**. We are a peer-reviewed, diamond open-access journal dedicated to publishing high-quality computational, chemical, and biological research focusing on novel pharmaceutical formulations and marine-derived natural products.
 
 ---
 
