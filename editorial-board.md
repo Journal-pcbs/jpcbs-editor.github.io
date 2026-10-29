@@ -1,7 +1,7 @@
 # Editorial Board
 
 ### Editor-in-Chief
-* **[Momal Omer]** — Department of Pharmaceutical Chemistry
+* **Momal Omer** — Department of Pharmaceutical Chemistry
 
 ### Associate Editors & Review Board
 * Seeking active researchers in Pharmaceutical chemistry and Marine Biology. 
