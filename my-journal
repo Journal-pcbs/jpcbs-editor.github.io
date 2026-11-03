@@ -1,1 +1,16 @@
-
+<head>
+  <title>The Title of Your Article</title>
+  
+  <!-- Google Scholar Metadata Tags -->
+  <meta name="citation_title" content="The Title of Your Made-up Article">
+  <meta name="citation_author" content="Author, Firstname">
+  <meta name="citation_publication_date" content="2026/11/03">
+  <meta name="citation_journal_title" content="Your GitHub Journal Name">
+  <meta name="citation_volume" content="1">
+  <meta name="citation_issue" content="1">
+  <meta name="citation_firstpage" content="1">
+  <meta name="citation_lastpage" content="10">
+  
+  <!-- This links directly to the PDF file hosted in your repo -->
+  <meta name="citation_pdf_url" content="https://github.io">
+</head>
