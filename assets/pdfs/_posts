@@ -1,0 +1,13 @@
+---
+layout: post
+title: "The Impact of Made-Up Data on Academic Simulation"
+author: "Momal, Sohail"
+date: 2026-11-03
+volume: 1
+issue: 1
+pdf_filename: "article1.pdf"
+---
+
+Write your article's **Abstract** Bacterial activity of chitosan derived from tiger shrimp (Penaeus monodon). 
+When Jekyll compiles your website, this text will fill the `{{ content }}` 
+placeholder inside your layout, and the headers above will fill the Google Scholar tags.
