@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
 title: Journal of Pharmaceutical Chemistry and Biosciences
 description: A peer-reviewed open-access journal.
+url: "https://github.io"
+baseurl: "/your-repository-name" # Leave as "" if your repo is named yourusername.github.io
+markdown: kramdown
+permalink: /journal/:title/
