@@ -1,73 +1,81 @@
 
+---
+layout: splash
+title: "Journal of Pharmaceutical Chemistry and Biosciences"
+permalink: /
+classes:
+  - wide
+---
+
 # Journal of Pharmaceutical Chemistry and Biosciences
 
-**JPCBS | Independent Open-Access Academic Journal**
+### JPCBS
 
-Welcome to the Journal of Pharmaceutical Chemistry and Biosciences (JPCBS), an independent scholarly publishing initiative dedicated to advancing research in pharmaceutical sciences, medicinal chemistry, drug discovery, pharmaceutical technology, and biological sciences.
+An independent scholarly publishing initiative advancing research in pharmaceutical chemistry, drug discovery, and biosciences.
 
-JPCBS aims to provide an interdisciplinary platform for researchers, academicians, and scientists to share scientifically rigorous research and contribute to developments in pharmaceutical and biomedical innovation.
+[About the Journal]({{ '/about/' | relative_url }}){: .btn .btn--primary}
+[Author Guidelines]({{ '/author-guidelines/' | relative_url }}){: .btn .btn--info}
 
 ---
 
-## About the Journal
+## Welcome to JPCBS
 
-The Journal of Pharmaceutical Chemistry and Biosciences seeks to encourage high-quality research at the intersection of pharmaceutical chemistry, pharmaceutical sciences, and biosciences.
+The Journal of Pharmaceutical Chemistry and Biosciences (JPCBS) aims to provide an academic platform for the dissemination of scientific research and scholarly contributions across pharmaceutical sciences, chemistry, and biosciences.
 
-The journal is being developed with a commitment to academic integrity, transparent editorial practices, ethical research, and accessible scientific communication.
+The journal seeks to encourage interdisciplinary research, scientific communication, and the exchange of knowledge among researchers, academicians, and students.
 
 ## Aims and Scope
 
 JPCBS welcomes research contributions in the following areas:
 
-- Pharmaceutical and medicinal chemistry
-- Drug design, discovery, and development
-- Pharmaceutical analysis and quality control
-- Drug delivery systems and pharmaceutical technology
-- Natural products, marine bioactives, and phytochemistry
-- Pharmacology and toxicology
-- Pharmaceutical biotechnology and nanotechnology
-- Molecular biology, biochemistry, and related biosciences
+- Pharmaceutical and Medicinal Chemistry
+- Drug Discovery and Drug Design
+- Pharmaceutical Analysis
+- Synthetic and Natural Product Chemistry
+- Marine Natural Products
+- Pharmacology and Biological Evaluation
+- Biochemistry and Molecular Biosciences
+- Pharmaceutical Formulation and Drug Delivery
+- Polymer Chemistry and Pharmaceutical Applications
+- Computational Chemistry and Molecular Modelling
 
-The journal encourages interdisciplinary research with relevance to pharmaceutical development, healthcare, and biomedical innovation.
+[Explore the Journal Scope]({{ '/about/' | relative_url }})
 
----
+## Publication Categories
 
-## Publication Information
+JPCBS intends to consider the following scholarly contributions:
 
-| Journal detail | Information |
-|---|---|
-| Full title | Journal of Pharmaceutical Chemistry and Biosciences |
-| Abbreviation | JPCBS |
-| Publisher | Independent publishing initiative |
-| Access model | Open access |
-| Publication frequency | Biannual (proposed) |
-| Publication language | English |
-| ISSN | Application pending |
-| DOI | Not yet assigned |
+- Original Research Articles
+- Review Articles
+- Short Communications
+- Research Communications
 
----
+All submissions will be subject to editorial assessment and applicable peer-review policies.
 
-## Journal Development
+## Current Issue
 
-JPCBS is currently developing its editorial infrastructure, publication policies, and manuscript submission procedures.
+The first issue of JPCBS is under development.
 
-Further information regarding manuscript submissions, editorial appointments, and the inaugural issue will be announced once the necessary arrangements are in place.
+Details of published articles will be made available here following publication.
 
----
+[View Current Issue]({{ '/current-issue/' | relative_url }})
 
-## Navigation
+## For Authors
 
-- [About the Journal](./about)
-- [Aims and Scope](./aims-and-scope)
-- [Editorial Board](./editorial-board)
-- [Author Guidelines](./author-guidelines)
-- [Publication Ethics](./publication-ethics)
-- [Peer Review Policy](./peer-review)
-- [Current Issue](./current-issue)
-- [Archives](./archives)
+Researchers interested in contributing to JPCBS are encouraged to review the journal's manuscript preparation requirements and publication policies.
+
+[Read Author Guidelines]({{ '/author-guidelines/' | relative_url }})
+
+## Research Integrity and Publication Ethics
+
+JPCBS aims to uphold responsible research practices, transparency, academic integrity, and ethical scholarly communication.
+
+[Read Publication Ethics]({{ '/publication-ethics/' | relative_url }})
 
 ---
 
-**Journal of Pharmaceutical Chemistry and Biosciences (JPCBS)**
+## Contact the Journal
 
-Independent scholarly publishing initiative.
+For editorial enquiries and general correspondence, please visit our contact page.
+
+[Contact JPCBS]({{ '/contact/' | relative_url }})
