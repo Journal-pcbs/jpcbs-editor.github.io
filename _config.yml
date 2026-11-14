@@ -7,7 +7,8 @@ url: "https://journal-pcbs.github.io"
 baseurl: "/jpcbs-editor.github.io"
 
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"
-
+minimal_mistakes_skin: "air"
+masthead_title: "JPCBS"
 markdown: kramdown
 permalink: /journal/:title/
 
