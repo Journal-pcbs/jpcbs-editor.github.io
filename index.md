@@ -1,4 +1,3 @@
-
 ---
 layout: splash
 title: "Journal of Pharmaceutical Chemistry and Biosciences"
@@ -6,7 +5,6 @@ permalink: /
 classes:
   - wide
 ---
-
 # Journal of Pharmaceutical Chemistry and Biosciences
 
 ### JPCBS
