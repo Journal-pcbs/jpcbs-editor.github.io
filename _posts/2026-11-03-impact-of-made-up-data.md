@@ -6,7 +6,6 @@ author: "Momal, Sohail"
 date: 2026-11-03
 volume: 1
 issue: 1
-pdf_filename: "article1.pdf"
 ---
 
 ## Abstract
