@@ -1,0 +1,33 @@
+# ---- EDIT THESE ----
+title: Journal of Pharmaceutical Chemistry and Biosciences
+short_title: JPCBS
+description: An international scholarly journal dedicated to pharmaceutical chemistry and biosciences.
+email: editor@example.org          # replace with your real journal email
+issn: ""                            # add once assigned, e.g. "1234-5678"
+publisher: JPCBS Editorial Office
+# Repo named journal-pcbs.github.io  -> url: https://journal-pcbs.github.io , baseurl: ""
+# Repo named jpcbs-editor.github.io  -> keep the two lines below as they are
+url: https://journal-pcbs.github.io
+baseurl: /jpcbs-editor.github.io
+current_issue: { volume: 1, issue: 1 }
+# --------------------
+markdown: kramdown
+plugins: [jekyll-feed, jekyll-sitemap, jekyll-seo-tag]
+collections:
+  articles:
+    output: true
+    permalink: /articles/:name/
+defaults:
+  - scope: { path: "" }
+    values: { layout: default }
+  - scope: { path: "", type: articles }
+    values: { layout: article }
+exclude: [README.md, _templates]
+nav:
+  - { t: About, u: /about/ }
+  - { t: Editorial Board, u: /editorial-board/ }
+  - { t: Current Issue, u: /current-issue/ }
+  - { t: Archive, u: /archive/ }
+  - { t: Author Guidelines, u: /author-guidelines/ }
+  - { t: Ethics, u: /publication-ethics/ }
+  - { t: Contact, u: /contact/ }

@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+{% seo %}
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+{% feed_meta %}
+{% if page.collection == 'articles' %}{% include article-head.html %}{% endif %}
+</head><body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="top"><div class="wrap bar">
+<a class="brand" href="{{ '/' | relative_url }}">
+<svg viewBox="0 0 40 40" width="34" height="34" aria-hidden="true"><polygon points="20,3 35,11.5 35,28.5 20,37 5,28.5 5,11.5" fill="none" stroke="currentColor" stroke-width="2.4"/><polygon points="20,11 28,15.5 28,24.5 20,29 12,24.5 12,15.5" fill="currentColor" opacity=".18"/></svg>
+<span><b>{{ site.short_title }}</b><small>{{ site.title }}</small></span></a>
+<button class="menu" aria-expanded="false" aria-controls="nav" onclick="var n=document.getElementById('nav');var o=n.classList.toggle('open');this.setAttribute('aria-expanded',o)">Menu</button>
+<nav id="nav" aria-label="Primary">{% for i in site.nav %}<a href="{{ i.u | relative_url }}"{% if page.url contains i.u %} aria-current="page"{% endif %}>{{ i.t }}</a>{% endfor %}</nav>
+</div></header>
+<main id="main" class="wrap">{{ content }}</main>
+<footer class="wrap foot">
+<p>&copy; {{ 'now' | date: '%Y' }} {{ site.publisher }}.{% if site.issn != "" %} ISSN {{ site.issn }}.{% endif %} Contact: <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+<p><a href="{{ '/feed.xml' | relative_url }}">Feed</a> &middot; <a href="{{ '/publication-ethics/' | relative_url }}">Ethics</a> &middot; <a href="{{ '/archive/' | relative_url }}">Archive</a></p>
+</footer></body></html>
