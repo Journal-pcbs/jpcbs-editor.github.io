@@ -1,17 +1,73 @@
+
 # Journal of Pharmaceutical Chemistry and Biosciences
 
-Welcome to the official portal of the **Journal of Pharmaceutical Chemistry and Biosciences (jpcbs)**. We are a peer-reviewed, open-access journal dedicated to publishing high quality computational, chemical, and biological research focusing on novel pharmaceutical formulations and marine derived natural products.
+**JPCBS | Independent Open-Access Academic Journal**
+
+Welcome to the Journal of Pharmaceutical Chemistry and Biosciences (JPCBS), an independent scholarly publishing initiative dedicated to advancing research in pharmaceutical sciences, medicinal chemistry, drug discovery, pharmaceutical technology, and biological sciences.
+
+JPCBS aims to provide an interdisciplinary platform for researchers, academicians, and scientists to share scientifically rigorous research and contribute to developments in pharmaceutical and biomedical innovation.
 
 ---
 
-## 📢 Call for Papers: Vol. 1, Issue 1
-We are actively inviting original research articles, review papers, and short communications for our inaugural issue. 
-* **Scope:** Marine bioactive compounds, drug design, pharmacology, secondary metabolites, extraction methodologies, and computational pharmaceutical chemistry.
-* **Fees:** 100% Free. There are no Article Processing Charges (APCs) for our first two issues.
+## About the Journal
+
+The Journal of Pharmaceutical Chemistry and Biosciences seeks to encourage high-quality research at the intersection of pharmaceutical chemistry, pharmaceutical sciences, and biosciences.
+
+The journal is being developed with a commitment to academic integrity, transparent editorial practices, ethical research, and accessible scientific communication.
+
+## Aims and Scope
+
+JPCBS welcomes research contributions in the following areas:
+
+- Pharmaceutical and medicinal chemistry
+- Drug design, discovery, and development
+- Pharmaceutical analysis and quality control
+- Drug delivery systems and pharmaceutical technology
+- Natural products, marine bioactives, and phytochemistry
+- Pharmacology and toxicology
+- Pharmaceutical biotechnology and nanotechnology
+- Molecular biology, biochemistry, and related biosciences
+
+The journal encourages interdisciplinary research with relevance to pharmaceutical development, healthcare, and biomedical innovation.
 
 ---
 
-## 📁 Navigation
-* [Editorial Board](./editorial-board)
-* [Author Guidelines & Submission](./author-guidelines)
-* [Current Issue](./current-issue)
+## Publication Information
+
+| Journal detail | Information |
+|---|---|
+| Full title | Journal of Pharmaceutical Chemistry and Biosciences |
+| Abbreviation | JPCBS |
+| Publisher | Independent publishing initiative |
+| Access model | Open access |
+| Publication frequency | Biannual (proposed) |
+| Publication language | English |
+| ISSN | Application pending |
+| DOI | Not yet assigned |
+
+---
+
+## Journal Development
+
+JPCBS is currently developing its editorial infrastructure, publication policies, and manuscript submission procedures.
+
+Further information regarding manuscript submissions, editorial appointments, and the inaugural issue will be announced once the necessary arrangements are in place.
+
+---
+
+## Navigation
+
+- [About the Journal](./about)
+- [Aims and Scope](./aims-and-scope)
+- [Editorial Board](./editorial-board)
+- [Author Guidelines](./author-guidelines)
+- [Publication Ethics](./publication-ethics)
+- [Peer Review Policy](./peer-review)
+- [Current Issue](./current-issue)
+- [Archives](./archives)
+
+---
+
+**Journal of Pharmaceutical Chemistry and Biosciences (JPCBS)**
+
+Independent scholarly publishing initiative.
