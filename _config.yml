@@ -1,12 +1,18 @@
+
 title: Journal of Pharmaceutical Chemistry and Biosciences
-description: A peer-reviewed open-access journal.
+name: JPCBS
+description: An international scholarly journal dedicated to pharmaceutical chemistry and biosciences.
+
 url: "https://journal-pcbs.github.io"
 baseurl: "/jpcbs-editor.github.io"
+
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 
 markdown: kramdown
 permalink: /journal/:title/
 
-remote_theme: pages-themes/cayman@v0.2.0
-
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
+
+locale: en
